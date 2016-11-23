@@ -25,7 +25,7 @@
 ### 學習藍圖
 
 | Bootstrap 基本元件操作 | Bootstrap 進階Javascript 元件操作  | 建立你的Landing Page | 其他類似的Framework        |
-| ------------------   | ---------------------------------| -------------        |                           |
+| ------------------   | ---------------------------------| -------------        | -------------            |
 | design tool          | jQuery                           | Scratch              | Semantic UI               |
 | CSS Component        | Javascript Components            | 網頁實作              | Material UI               |
 | Responsive           |                                  |                      |                           |
@@ -44,7 +44,7 @@
 其他類似的Framework的部份，會講解必須知道的差異與使用觀念，內容如下：
 
 * 與Bootstrap的差異
-* 如何快速掌握
+* 如何快速掌握其他的framework
 
 上述主題是採用解說的方式，並不會有太深入的實作，或是理論討論；目的是搭配 Bootstrap 的實作，在實作的過程，瞭解framework的基礎，並理解與其他的差異。
 
